@@ -4,7 +4,8 @@
   "description": "take-home assignment for Torch to monitor MTA delays",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
   },
   "author": "Ari Israel",
   "license": "ISC",
