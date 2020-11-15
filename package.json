@@ -1,0 +1,11 @@
+{
+  "name": "torch-mta",
+  "version": "1.0.0",
+  "description": "take-home assignment for Torch to monitor MTA delays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ari Israel",
+  "license": "ISC"
+}
